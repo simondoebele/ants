@@ -59,7 +59,7 @@
 </details>
 
 ![Drawing](./images/splash.png)
-(For image credit and a quick introduction to interpreters, see [here](https://inst.eecs.berkeley.edu/~cs61a/fa17/proj/ants/).)
+(For image credit, see [here](https://inst.eecs.berkeley.edu/~cs61a/fa17/proj/ants/).)
 ![GUI](./images/new_ants_gui.png)
 
 
